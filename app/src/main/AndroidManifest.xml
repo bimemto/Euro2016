@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tung.euro">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".TinTuc"
+            android:label="@string/title_activity_tin_tuc"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".LichThiDau"
+            android:label="@string/title_activity_lich_thi_dau"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".BangXepHang"
+            android:label="@string/title_activity_bang_xep_hang"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TrangChu"
+            android:label="@string/title_activity_trang_chu"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Trang Chu</string>
+    <string name="title_activity_tin_tuc">TinTuc</string>
+    <string name="title_activity_lich_thi_dau">LichThiDau</string>
+    <string name="title_activity_bang_xep_hang">BangXepHang</string>
+    <string name="title_activity_trang_chu">TrangChu</string>
+</resources>
